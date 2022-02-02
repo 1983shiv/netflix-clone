@@ -1,5 +1,5 @@
 # Netflix Clone UI Design - With React.js, TailwindCSS
-![Netflix Clone UI Design](https://raw.githubusercontent.com/1983shiv/preview.png)
+![Netflix Clone UI Design](https://raw.githubusercontent.com/1983shiv/netflix-clone/main/preview.png)
 
 ## Introduction
 Netflix Clone UI Design - With React.js, TailwindCSS
