@@ -10,7 +10,6 @@ const Thumbnail = ({ result}) => {
             <Image 
                 src={`${BASE_URL}${result.backdrop_path}` || `${BASE_URL}${result.poster_path}`}
                 alt={result.title}
-                Layout="responsive"
                 width={1200}
                 height={600}
             />
